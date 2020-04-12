@@ -1,6 +1,6 @@
 # [DEVS INFO KENYA](http://devs.info.ke/)
 
-A summary of developer communities in Kenya; links to different groups & what's happening! The info on the json file above is available at http://devs.info.ke/
+A summary of developer communities in Kenya. The info above is available at http://devs.info.ke/
 
 
 # So what?
