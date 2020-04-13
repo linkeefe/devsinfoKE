@@ -144,6 +144,13 @@
          "Link":"#",
          "Events":"#",
          "Telegram":"https://t.me/WordPressKenya"
+      },
+      {
+         "id": "tensorflownairobi",
+         "Name":"TensorFlow Nairobi",
+         "Desc":"A local community of technologists who are interested in advancing their knowledge of TensorFlow (http://tensorflow.org), its use cases and applications.",
+         "Link":"https://nairobi.ai",
+         "Events":"https://www.meetup.com/Tensorflow-Nairobi/"
       }
       
 
