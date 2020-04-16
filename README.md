@@ -8,6 +8,6 @@ A summary of developer communities in Kenya. The info above is available at http
 
 # Working on New Features!
 
-  - Dev upload profile
+  - Dev upload profile/ stacks
   - Contact a dev for project help
   - Become a mentor
