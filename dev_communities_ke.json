@@ -151,6 +151,15 @@
          "Desc":"A local community of technologists who are interested in advancing their knowledge of TensorFlow (http://tensorflow.org), its use cases and applications.",
          "Link":"https://nairobi.ai",
          "Events":"https://www.meetup.com/Tensorflow-Nairobi/"
+      },
+      {
+         "id": "azureke",
+         "Name":"Azure Community in Kenya",
+         "Desc":"The Azure Meetup meets, discusses and review all Azure services, solutions and implementations. This is for all professionals in the field of security, devops, infrastructure, support, development, quality, architecture and design, business and/or data of any type or experience level. Calling all beginners, geeks and enthusiasts in the cloud space or those that want to join!.",
+         "Link":"meetup.com/azureke",
+         "Events":"meetup.com/azureke",
+         "Telegram":"https://t.me/azureke"
+
       }
       
 
