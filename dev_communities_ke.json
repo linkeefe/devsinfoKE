@@ -160,8 +160,16 @@
          "Events":"meetup.com/azureke",
          "Telegram":"https://t.me/azureke"
 
+      },
+    {
+         "id": "producthuntnairobi",
+         "Name":"ProductHunt Nairobi",
+         "Desc":"A community of makers and hunters building products together",
+         "Link":"https://www.producthunt.com",
+         "Events":"http://meetups.producthunt.com",
+         "Telegram":""
+
       }
-      
 
          
 ]
