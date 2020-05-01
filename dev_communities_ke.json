@@ -98,14 +98,6 @@
          "Telegram":"https://t.me/phpkenya"
       },
       {
-         "id": "phpkenya",
-         "Name":"PHP Kenya",
-         "Desc":"PHP group for devs and wannabes ",
-         "Link":"https://t.me/phpkenya",
-         "Events":"#",
-         "Telegram":"https://t.me/phpkenya"
-      },
-      {
          "id": "paymentsapi",
          "Name":"Payments Overflow KE",
          "Desc":"Programmers & Developers working with Payments API ",
