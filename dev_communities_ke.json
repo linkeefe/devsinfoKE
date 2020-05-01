@@ -55,7 +55,7 @@
          "Desc":"Nairuby is a community organization that was started in 2010. The community focuses on development and demonstrations on ruby technologies and frameworks, which are all open source and widely used by startups to prototype and carry out proof of concept with a go to market strategy.",
          "Link":"https://www.meetup.com/Nairuby/",
          "Events":"https://www.meetup.com/Nairuby/events/past",
-         "Telegram":"#"
+         "Telegram":"https://telegram.me/nairuby"
       },
       {
          "id": "atlassian",
@@ -79,7 +79,7 @@
          "Desc":"A meetup for people interested in Laravel and Web App development ",
          "Link":"https://www.meetup.com/laravel-nairobi/",
          "Events":"https://www.meetup.com/laravel-nairobi/events/pasts",
-         "Telegram":"#"
+         "Telegram":"https://t.me/laravel254"
       },
       {
          "id": "gdgnairobi",
