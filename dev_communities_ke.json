@@ -161,8 +161,30 @@
          "Events":"http://meetups.producthunt.com",
          "Telegram":""
 
-      }
-
-         
+      },
+    {
+         "id": "anitabnairobi",
+         "Name":"AnitaB.Org Nairobi",
+         "Desc":"Local communities that connect women technologists from cities around the world to network and find support & new opportunities.",
+         "Link":"https://anitab-org.mobilize.io/",
+         "Events":"https://community.anitab.org/",
+         "Telegram":"#"
+      },
+      {
+         "id": "angularkenya",
+         "Name":"Angular Kenya",
+         "Desc":"An Angular Kenyan community for budding Software Developers interested in the Angular framework",
+         "Link":"https://twitter.com/angular_kenya",
+         "Events":"#",
+         "Telegram":"#"
+      },
+      {
+         "id": "hackclubke",
+         "Name":"Hack Club Kenya",
+         "Desc":"A nonprofit network of student-led high school programming clubs to teach beginners to code. Subsidiary of Hack Club",
+         "Link":"https://twitter.com/hackclubke",
+         "Events":"https://hackclubkenya.netlify.app/",
+         "Telegram":"#"
+      }         
 ]
 
