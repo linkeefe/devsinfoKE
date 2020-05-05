@@ -185,6 +185,22 @@
          "Link":"https://twitter.com/hackclubke",
          "Events":"https://hackclubkenya.netlify.app/",
          "Telegram":"#"
-      }         
+      },  
+        {
+         "id": "reactnative",
+         "Name":"React Native",
+         "Desc":"A telegram group for React Native users",
+         "Link":"#",
+         "Events":"#",
+         "Telegram":"https://t.me/reactnative"
+      },  
+       {
+         "id": "lepstadev",
+         "Name":"Lepsta Developers Nairobi",
+         "Desc":"We are tech community with activities in 8 cities/chapters (Pretoria, Johannesburg, Cape Town, Maputo, Lagos, Nairobi, Eldoret and Kaduna). Led by entrepreneurs who dream big and contribute to shaping the future. Operated by 6+ Local Leaders driven by bringing positive impact in the future of technology.We connect developers to industry leaders. We learn about the present to prospect the future. To get a bigger chance at having a bigger impact on the future of software development.",
+         "Link":"https://www.meetup.com/Lepsta-Developers-Nairobi/",
+         "Events":"#",
+         "Telegram":"#"
+      }
 ]
 
