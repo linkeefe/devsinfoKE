@@ -97,6 +97,14 @@
          "Events":"#",
          "Telegram":"https://t.me/yii2devskenya"
       },
+           {
+         "id": "golang",
+         "Name":"Community for golang developers in Kenya",
+         "Desc":"",
+         "Link":"#",
+         "Events":"#",
+         "Telegram":"https://t.me/golang254"
+      },
       {
          "id": "phpkenya",
          "Name":"PHP Kenya",
