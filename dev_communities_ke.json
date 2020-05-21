@@ -89,6 +89,14 @@
          "Events":"https://www.meetup.com/GDG-Nairobi/events/pasts",
          "Telegram":"#"
       },
+       {
+         "id": "yii",
+         "Name":"Yii2 Devs Kenya",
+         "Desc":"",
+         "Link":"#",
+         "Events":"#",
+         "Telegram":"https://t.me/yii2devskenya"
+      },
       {
          "id": "phpkenya",
          "Name":"PHP Kenya",
