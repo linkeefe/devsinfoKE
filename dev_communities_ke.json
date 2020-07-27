@@ -218,6 +218,14 @@
          "Events":"https://www.meetup.com/Lepsta-Developers-Nairobi/events/past/",
          "Telegram":"#"
       }
+       {
+         "id": "ipfsnairobi",
+         "Name":"Nairobi IPFS",
+         "Desc":"We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!",
+         "Link":"https://ipfs-africa.github.io",
+         "Events":"https://www.meetup.com/Nairobi-IPFS/",
+         "Telegram":"#"
+      }
    
 ]
 
