@@ -3,8 +3,8 @@
 A summary of developer communities in Kenya. The info above is available at http://devs.info.ke/
 
 
-# So what?
- - Pull request to edit json i.e. add a new meetup, update info for a certain meetup
+# Want to add your Community?
+ - Pull request to edit communities.json i.e. add a new meetup, update info for a certain meetup
 
 # Working on New Features!
 
