@@ -62,11 +62,10 @@
             <div class="col-lg-8">
               <h4 class="mt-0">Let's Get In Touch!</h4>
               <hr class="divider my-4">
-              <p class="text-muted mb-5">Would you like to update info on any of the above meetups? Check out the github repo here <a class="d-block" href="https://github.com/linkeefe/devsinfoKE">https://github.com/linkeefe/devsinfoKE</a> </br> OR </br>Too much work?? Send us an email and we will get back to you!</p>
-              <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
+              <p class="text-muted">Would you like to update info on any of the above meetups? Check out the github repo here <a class="d-block" href="https://github.com/linkeefe/devsinfoKE">https://github.com/linkeefe/devsinfoKE</a> </br> OR </br>Too much work?? Send us an email and we will get back to you!</p>
+              <i class="fas fa-envelope fa-3x text-muted"></i>
               <a class="d-block" target="_blank" href="mailto:connect@devs.info.ke">connect[at]devs.info.ke</a>
             </div>
-        </div>
           </div>
         </div>
         </div>
