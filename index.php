@@ -68,7 +68,7 @@
 
     <!-- Page Content -->
     <div class="container">
-      <div class="row mb-2">
+      <div class="row">
 
       <?php
       $string = file_get_contents("communities.json");
@@ -94,7 +94,7 @@
         </div>
       </div>
     </div>
-    <footer class="bg-light fixed-bottom py-2">
+    <footer class="bg-light fixed-bottom mb-2 py-2">
       <div class="small text-center text-muted">Copyright &copy; 2020 - Developer Communities KE</div>
   </footer>
     <!-- Bootstrap core JavaScript -->
