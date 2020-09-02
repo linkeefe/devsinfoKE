@@ -151,6 +151,14 @@
     "Events": "#",
     "Telegram": "https://t.me/WordPressKenya"
   },
+    {
+    "id": "graphql",
+    "Name": "Nairobi GraphQL Meetup",
+    "Desc": "Interested in building API's using GraphQL? Join us and get to learn and share more about GraphQL and get to understand how you can leverage it to build modern and scalable API's that can be consumed by any client; be it a mobile app or web app.",
+    "Link": "https://www.meetup.com/Nairobi-GraphQL-Meetup/",
+    "Events": "https://www.meetup.com/Nairobi-GraphQL-Meetup/events/past/",
+    "Telegram": "#"
+  },
   {
     "id": "tensorflownairobi",
     "Name": "TensorFlow Nairobi",
