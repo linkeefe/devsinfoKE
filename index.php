@@ -67,7 +67,7 @@
     </div>
 
     <!-- Page Content -->
-    <div class="container mb-2">
+    <div class="container mb-4">
       <div class="row">
 
       <?php
