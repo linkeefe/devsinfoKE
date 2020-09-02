@@ -76,7 +76,7 @@
       
       foreach ($json_a as $key => $value) {
         ?>
-        <div class="col-lg-12 p-4">
+        <div class="col-lg-12 mb-2 p-4">
             <div class="card">
               <div class="card-body"> 
                 <h5 class="card-title"><?php echo $value['Name'] ?></h5>
