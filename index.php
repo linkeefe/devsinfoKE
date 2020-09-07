@@ -86,9 +86,9 @@
                 <p class="text-muted">
                 <?php echo $value['Desc'] ?>
                 </p>
-                 <a href="<?php echo $value['Link'] ?>" target="_blank" class="card-link"><i class="fa fa-link" aria-hidden="true"></i></a>
-                <a href="<?php echo $value['Events'] ?>" target="_blank" class="card-link"><i class="fa fa-calendar" aria-hidden="true"></i></a>
-                <a href="<?php echo $value['Telegram'] ?>" target="_blank" class="card-link"><i class="fab fa-telegram"></i></a>
+                 <a href="<?php echo $value['Link'] ?>" target="_blank" class="card-link"><i class="fa fa-link text-muted" aria-hidden="true"></i></a>
+                <a href="<?php echo $value['Events'] ?>" target="_blank" class="card-link"><i class="fa fa-calendar text-muted" aria-hidden="true"></i></a>
+                <a href="<?php echo $value['Telegram'] ?>" target="_blank" class="card-link"><i class="fab fa-telegram text-muted"></i></a>
               </div>
             </div>
           </div>
