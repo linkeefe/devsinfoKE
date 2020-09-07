@@ -61,9 +61,8 @@
                   <p class="text-muted mb-5"> A summary of developer communities in Kenya.</p>
                   <h5 class="mt-0">What we are working on</h5>
                   <a href="#" class="card-link">Upload your profile</a>
+                  <a href="#" class="card-link">Your ideas hub</a>
                   <a href="#" class="card-link">Ask for help/ mentorship</a>
-                  <a href="#" class="card-link">Post a job/gig</a>
-                  <a href="#" class="card-link">Post an event</a>
                </div>
             </div>
          </div>
