@@ -16,6 +16,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
     <link rel="icon" type="image/png" href="ico.png"/>
     
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -61,6 +62,8 @@
                   <li class="nav-item">
                      <a class="nav-link" href="/contact">Contact</a>
                   </li>
+            
+          
           </ul>
         </div>
       </nav>
@@ -83,9 +86,9 @@
                 <p class="text-muted">
                 <?php echo $value['Desc'] ?>
                 </p>
-                <a href="<?php echo $value['Link'] ?>" target="_blank" class="card-link">Group Link</a>
-                <a href="<?php echo $value['Events'] ?>" target="_blank" class="card-link">Community Events</a>
-                <a href="<?php echo $value['Telegram'] ?>" target="_blank" class="card-link">Join Telegram</a>
+                 <a href="<?php echo $value['Link'] ?>" target="_blank" class="card-link"><i class="fa fa-link" aria-hidden="true"></i></a>
+                <a href="<?php echo $value['Events'] ?>" target="_blank" class="card-link"><i class="fa fa-calendar" aria-hidden="true"></i></a>
+                <a href="<?php echo $value['Telegram'] ?>" target="_blank" class="card-link"><i class="fab fa-telegram"></i></a>
               </div>
             </div>
           </div>
