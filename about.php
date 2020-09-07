@@ -11,7 +11,7 @@
          content="A summary of developer communities in Kenya. "
          />
       <meta name="author" content="Lincoln Njogu, Technologist" />
-      <title>Developer Communities Kenya</title>
+      <title>About | Developer Communities Kenya</title>
       <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
     <link rel="icon" type="image/png" href="ico.png"/>
