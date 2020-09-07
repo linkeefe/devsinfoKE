@@ -12,10 +12,21 @@
     />
     <meta name="author" content="Lincoln Njogu, Technologist" />
 
-    <title>Developer Communities Kenya</title>
+    <title>Contact | Developer Communities Kenya</title>
 
-    <!-- Bootstrap core CSS -->
+     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="ico.png"/>
+    
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163468828-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-163468828-1');
+</script>
   </head>
 
   <body style="font-family: 'Courier New', Courier, monospace">
