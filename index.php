@@ -119,7 +119,7 @@
                                     </div>
                                     <div class="accordion__content">
                                         <p class="lead">
-                                         Would you like to update info on any of the above communities? Check out the github repo <a href="https://github.com/linkeefe/devsinfoKE/blob/master/communities.json"> here</a> 
+                                         Would you like to update info on any of the above communities? Check out the github repo <a target="_blank" href="https://github.com/linkeefe/devsinfoKE/blob/master/communities.json"> here</a> 
                                         </p>
                                     </div>
                                 </li>
@@ -129,7 +129,7 @@
                                     </div>
                                     <div class="accordion__content">
                                         <p class="lead">
-                                         Would you like to add/update the info on Software development companies? Check out the github repo <a href="https://github.com/linkeefe/devsinfoKE/blob/master/sw_company.json"> here</a> 
+                                         Would you like to add/update the info on Software development companies? Check out the github repo <a target="_blank" href="https://github.com/linkeefe/devsinfoKE/blob/master/sw_company.json"> here</a> 
                                         </p>
                                     </div>
                                 </li>
