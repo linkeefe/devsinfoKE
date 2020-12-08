@@ -106,7 +106,7 @@
                                             Sign up for an account <a href="/in"> here</a>. 
                                         </p>
                                          <p class="lead">
-                                          Check out an <a href="/in/your_username.html"> example</a>.  You will get a public profile on a unique url. 
+                                          Check out an <a href="https://devs.info.ke/profile/index.php?id=kenyandev"> example</a>.  You will get a public profile on a unique url. 
                                         </p>
                                         <p class="lead">
                                            You will recieve alerts on different opportunities like gigs, internships and jobs based on your profile. 
