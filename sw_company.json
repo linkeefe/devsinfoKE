@@ -1,0 +1,16 @@
+[
+  {
+    "id": "made",
+    "Name": "Made by People",
+    "Desc": " Helping Organisations Leverage the Human-Centered Design Process (HCD) and Agile Software Development to build impactful products and services.",
+    "Link": "https://made.ke/",
+    "Contact": "https://made.ke/"
+  },
+    {
+    "id": "mobidev",
+    "Name": "{Mobidev}",
+    "Desc": " A mobile first consulting company in Kenya",
+    "Link": "https://mobidev.co.ke/",
+    "Contact": "info@devs.mobi"
+  }
+]
