@@ -13,23 +13,18 @@
                         <div class="col-md-6 text-right text-center-xs">
                             <ul class="social-list list-inline list--hover">
                                 <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="socicon socicon-google icon icon--xs"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
+                                    <a target="_blank" href="https://www.twitter.com/devsinfoKE/">
                                         <i class="socicon socicon-twitter icon icon--xs"></i>
                                     </a>
                                 </li>
                                 <li class="list-inline-item">
-                                    <a href="#">
+                                    <a target="_blank" href="https://twitter.com/DevsinfoKE">
                                         <i class="socicon socicon-facebook icon icon--xs"></i>
                                     </a>
                                 </li>
                                 <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="socicon socicon-instagram icon icon--xs"></i>
+                                    <a target="_blank" href="https://www.linkedin.com/company/devs-info-kenya/">
+                                        <i class="socicon socicon-linkedin icon icon--xs"></i>
                                     </a>
                                 </li>
                             </ul>
