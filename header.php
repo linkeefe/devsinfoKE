@@ -72,11 +72,7 @@
                                                <div class="col-lg-11 col-md-12 text-right text-left-xs text-left-sm">
                             <div class="bar__module">
                                 <ul class="menu-horizontal text-left">
-                                    <li class="dropdown">
-                  
-                                            <a href="blog.php">WHAT'S NEW </a>
-
-                                    </li>
+                              
                                     <li class="dropdown">
                                         <span class="dropdown__trigger">HOW TO LIST</span>
                                         <div class="dropdown__container">
@@ -95,7 +91,7 @@
                                                                 <span>A CONSULTANCY FIRM</span>
                                                             </li>
                                                              <li>
-                                                                <a class="btn btn--sm type--uppercase" href="#demos">
+                                                                <a class="btn btn--sm type--uppercase" href="/#demos">
                                                                     <span class="btn__text">
                                                                         GET STARTED
                                                                     </span>
@@ -110,16 +106,31 @@
                                         </div>
                                         <!--end dropdown container-->
                                     </li>
+                                    <li class="dropdown">
+                  
+                                            <a href="/portal">WHAT'S NEW </a>
+
+                                    </li>
+                                    <li class="dropdown">
+                  
+                                            <a href="/jobs">VIEW JOBS </a>
+
+                                    </li>
+                                    <li class="dropdown">
+                  
+                                            <a href="/pages">VIEW FIRMS </a>
+
+                                    </li>
                                 </ul>
                             </div>
                             <!--end module-->
                             <div class="bar__module">
-                                <a class="btn btn--sm type--uppercase" href="/in">
+                                <a class="btn btn--sm type--uppercase" href="/#demos">
                                     <span class="btn__text">
                                         UPLOAD A PROFILE
                                     </span>
                                 </a>
-                                <a class="btn btn--sm btn--primary type--uppercase" href="#">
+                                <a class="btn btn--sm btn--primary type--uppercase" href="/#jobs">
                                     <span class="btn__text">
                                         POST A JOB
                                     </span>
