@@ -72,7 +72,7 @@
                                                 <div class="feature__body">
                                                     <h5>Join as a dev</h5>
                                                     <p>
-                                                      Sign up for an account and get a listed.</br> Check out an <a target="_blank" href="/profile/index.php?id=kenyandev"> example</a>. </br> You will get a public profile on a unique url.  You will recieve alerts on different opportunities like gigs, internships and jobs based on your profile. 
+                                                      Sign up for an account and get listed.</br> Check out an <a target="_blank" href="/profile/index.php?id=kenyandev"> example</a>. </br> You will get a public profile on a unique url.  You will recieve alerts on different opportunities like gigs, internships and jobs based on your profile. 
                                                     </p>
                                                     <a href="/in">Get Started</a>
                                                 </div>
@@ -84,7 +84,7 @@
                                                 <div class="feature__body">
                                                     <h5>Join as a firm</h5>
                                                     <p>
-                                                     Sign up for an account and get a listed. </br> Check out an <a target="_blank" href="/pages/view.php?id=devske"> example</a>. </br>  Get noticed by software developers and IT prationers on the network and get other services like posting of jobs.
+                                                     Sign up for an account and get listed. </br> Check out an <a target="_blank" href="/pages/view.php?id=devske"> example</a>. </br>  Get noticed by software developers and IT prationers on the network and get other services like posting of jobs.
                                                     </p>
                                                     <a href="/company">Get Started</a>
                                                 </div>
