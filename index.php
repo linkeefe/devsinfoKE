@@ -25,6 +25,10 @@
                         <div class="col-md-12">
                             <div class="heading-block">
                                 <h3>Dev Communities KE</h3>
+                                <p>
+                                         Would you like to update info of the listed communities? Check out the github repo.
+                                        </p>
+                                <a target="_blank" href="https://github.com/linkeefe/devsinfoKE/blob/master/communities.json">ADD/UPDATE &raquo;</a>
                             </div>
                         </div>
                         <?php
@@ -55,68 +59,45 @@
             </section>
               
    <a id="demos"></a>
+  
             <section class="switchable">    
                 <div class="container">
                      <div class="heading-block">
                                 <h3>Join us now!</h3>
                             </div>
-                    <div class="row justify-content-between">
-                        <div class="col-md-6 col-lg-5">
-                            <ul class="accordion accordion-1 accordion--oneopen">
-                                <li class="active">
-                                    <div class="accordion__title">
-                                        <span class="h5 lead">How to create a dev profile</span>
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                             <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
+                                                <i class="icon icon-User icon--lg"></i>
+                                                <div class="feature__body">
+                                                    <h5>Join as a dev</h5>
+                                                    <p>
+                                                      Sign up for an account and get a listed.</br> Check out an <a target="_blank" href="/profile/index.php?id=kenyandev"> example</a>. </br> You will get a public profile on a unique url.  You will recieve alerts on different opportunities like gigs, internships and jobs based on your profile. 
+                                                    </p>
+                                                    <a href="/in">Get Started</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="feature feature--featured feature-5 boxed boxed--lg boxed--border">
+                                                <i class="icon icon-Shop icon--lg"></i>
+                                                <div class="feature__body">
+                                                    <h5>Join as a firm</h5>
+                                                    <p>
+                                                     Sign up for an account and get a listed. </br> Check out an <a target="_blank" href="/pages/view.php?id=devske"> example</a>. </br>  Get noticed by software developers and IT prationers on the network and get other services like posting of jobs.
+                                                    </p>
+                                                    <a href="/company">Get Started</a>
+                                                </div>
+                                            </div>
+                                        </div>
+
                                     </div>
-                                    <div class="accordion__content">
-                                        <p class="lead">
-                                            Sign up for an account <a href="/in"> here</a>. 
-                                        </p>
-                                         <p class="lead">
-                                          Check out an <a target="_blank" href="/profile/index.php?id=kenyandev"> example</a>.  You will get a public profile on a unique url. 
-                                        </p>
-                                        <p class="lead">
-                                           You will recieve alerts on different opportunities like gigs, internships and jobs based on your profile. 
-                                        </p>
-                                    </div>
-                                </li>
-                                <li >
-                                    <div class="accordion__title">
-                                        <span class="h5 lead">How to list a SW consulting firm</span>
-                                    </div>
-                                    <div class="accordion__content">
-                                        <p class="lead">
-                                            Sign up for an account <a href="/company"> here</a>. 
-                                        </p>
-                                         <p class="lead">
-                                          Check out an <a target="_blank" href="/pages/view.php?id=devske"> example</a>.  You will get a public profile on a unique url. 
-                                        </p>
-                                        <p class="lead">
-                                           Get noticed by software developers and IT prationers on the network and get other services like posting of jobs.
-                                        </p>
-                                    </div>
-                                </li>
-                                <li >
-                                    <div class="accordion__title">
-                                        <span class="h5 lead">How to list a community</span>
-                                    </div>
-                                    <div class="accordion__content">
-                                        <p class="lead">
-                                         Would you like to update info on any of the above communities? Check out the github repo <a target="_blank" href="https://github.com/linkeefe/devsinfoKE/blob/master/communities.json"> here</a> 
-                                        </p>
-                                    </div>
-                                </li>
-                            </ul>
-                            <!--end accordion-->
-                        </div>
-                        <div class="col-lg-6 col-md-6">
-                            <img src="img/crypto-2.svg" alt="Image">
-                        </div>
-                    </div>
-                    <!--end of row-->
+                                    <!--end of row-->
                 </div>
                 <!--end of container-->
             </section>
              <a id="jobs"></a>
+
             <section>
                 <div class="container">
                     <div class="row">
