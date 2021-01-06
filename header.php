@@ -69,56 +69,17 @@
                             </div>
                             <!--end module-->
                         </div>
-                                               <div class="col-lg-11 col-md-12 text-right text-left-xs text-left-sm">
+                        <div class="col-lg-11 col-md-12 text-right text-left-xs text-left-sm">
                             <div class="bar__module">
                                 <ul class="menu-horizontal text-left">
-                              
-                                    <li class="dropdown">
-                                        <span class="dropdown__trigger">HOW TO LIST</span>
-                                        <div class="dropdown__container">
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="dropdown__content col-lg-2 col-md-4">
-                                                        <ul class="menu-vertical">
-                                                            <li>
-                                                                <span>AS A DEVELOPER</span>
-                                                                <!--end dropdown container-->
-                                                            </li>
-                                                            <li>
-                                                                <span>A COMMUNITY</span>
-                                                            </li>
-                                                            <li>
-                                                                <span>A CONSULTANCY FIRM</span>
-                                                            </li>
-                                                             <li>
-                                                                <a class="btn btn--sm type--uppercase" href="/#demos">
-                                                                    <span class="btn__text">
-                                                                        GET STARTED
-                                                                    </span>
-                                                                </a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <!--end dropdown content-->
-                                                </div>
-                                                <!--end row-->
-                                            </div>
-                                        </div>
-                                        <!--end dropdown container-->
-                                    </li>
-                                    <li class="dropdown">
+                                     <li class="dropdown">
                   
-                                            <a href="/portal">WHAT'S NEW </a>
+                                            <a href="/portal">WHAT'S HAPPENING </a>
 
                                     </li>
                                     <li class="dropdown">
                   
-                                            <a href="/jobs">VIEW JOBS </a>
-
-                                    </li>
-                                    <li class="dropdown">
-                  
-                                            <a href="/pages">VIEW FIRMS </a>
+                                            <a href="/jobs">JOBS &amp; OPPORTUNITIES </a>
 
                                     </li>
                                 </ul>
@@ -127,12 +88,12 @@
                             <div class="bar__module">
                                 <a class="btn btn--sm type--uppercase" href="/#demos">
                                     <span class="btn__text">
-                                        UPLOAD A PROFILE
+                                        JOIN AS A DEV
                                     </span>
                                 </a>
-                                <a class="btn btn--sm btn--primary type--uppercase" href="/#jobs">
+                                <a class="btn btn--sm btn--primary type--uppercase" href="/#demos">
                                     <span class="btn__text">
-                                        POST A JOB
+                                        JOIN AS A FIRM
                                     </span>
                                 </a>
                             </div>
