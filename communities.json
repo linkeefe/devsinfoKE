@@ -107,6 +107,15 @@
     "Events": "#",
     "Telegram": "https://t.me/yii2devskenya"
   },
+    {
+    "id": "adg",
+    "Sponsor": "Community",
+    "Name": "Africa Game Developers Community",
+    "Desc": "Anyone interested in building & developing game's as a business!",
+    "Link": "https://www.meetup.com/Nairobi-Game-Development-Meetup/",
+    "Events": "https://www.meetup.com/Nairobi-Game-Development-Meetup/events/",
+    "Telegram": "https://t.me/AfricaGameDevelopers"
+  },
   {
     "id": "golang",
     "Sponsor": "Community",
