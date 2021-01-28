@@ -276,5 +276,14 @@
     "Link": "https://ipfs-africa.github.io",
     "Events": "https://www.meetup.com/Nairobi-IPFS/",
     "Telegram": "#"
+  },
+  {
+    "id": "reactdevske",
+    "Sponsor": "Community",
+    "Name": "React Developer Community Kenya",
+    "Desc": "A community of react developers using react related technologies in the Kenyan developer ecosystem. We discuss best practices, industry standards and how to help and mentor new developers into the ReactJS eco system",
+    "Link": "https://reactdevske.netlify.app/",
+    "Events": "https://twitter.com/reactdevske",
+    "Telegram": "http://bit.ly/reactdevsketelegram"
   }
 ]
