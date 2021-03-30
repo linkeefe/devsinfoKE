@@ -285,5 +285,14 @@
     "Link": "https://reactdevske.netlify.app/",
     "Events": "https://twitter.com/reactdevske",
     "Telegram": "http://bit.ly/reactdevsketelegram"
+  },
+  {
+    "id": "mongodbnai",
+    "Sponsor": "MongoDB",
+    "Name": "React Developer Community Kenya",
+    "Desc": "This community is for MongoDB users, data scientist/analysts, AI, IoT, backend developers, ML developers, cloud computing and anyone interested in emerging data technologies. MongoDB community is where the world’s fastest-growing data community comes to connect, explore, and learn. ",
+    "Link": "https://live.mongodb.com/nairobi-kenya/",
+    "Events": "https://live.mongodb.com/nairobi-kenya/",
+    "Telegram": "#"
   }
 ]
