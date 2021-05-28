@@ -277,6 +277,15 @@
     "Events": "https://www.meetup.com/Nairobi-IPFS/",
     "Telegram": "#"
   },
+    {
+    "id": "vuejskenya",
+    "Sponsor": "Community",
+    "Name": "Vue JS Kenya",
+    "Desc": "The community exists for anyone interested in Vue.js -. The goal is to provide monthly meetups where people give talks on Vue.js and related topic",
+    "Link": "https://www.meetup.com/vue-js-kenya/",
+    "Events": "https://www.meetup.com/vue-js-kenya/",
+    "Telegram": "https://www.meetup.com/vue-js-kenya/"
+  },
   {
     "id": "reactdevske",
     "Sponsor": "Community",
