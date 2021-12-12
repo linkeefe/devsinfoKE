@@ -170,13 +170,13 @@
     "Events": "https://live.mongodb.com/nairobi-kenya/",
     "Telegram": "#"
   }
-  {
-    "id": "jvm",
+   {
+    "id": "nlug",
     "Sponsor": "Community",
-    "Name": "Nairobi JVM",
-    "Desc": "Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython).",
-    "Link": "https://www.meetup.com/nairobi-jvm/",
-    "Events": "https://www.meetup.com/nairobi-jvm/events/past",
+    "Name": "Nairobi GNU/Linux Users Group",
+    "Desc": "A lively community of GNU/Linux penguin enthusiasts",
+    "Link": "https://github.com/orgs/nairobilug",
+    "Events": "https://groups.google.com/g/nairobi-gnu",
     "Telegram": "#"
   },
   {
@@ -204,6 +204,15 @@
     "Desc": "We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!",
     "Link": "https://ipfs-africa.github.io",
     "Events": "https://www.meetup.com/Nairobi-IPFS/",
+    "Telegram": "#"
+  },
+  {
+    "id": "jvm",
+    "Sponsor": "Community",
+    "Name": "Nairobi JVM",
+    "Desc": "Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython).",
+    "Link": "https://www.meetup.com/nairobi-jvm/",
+    "Events": "https://www.meetup.com/nairobi-jvm/events/past",
     "Telegram": "#"
   },
   {
