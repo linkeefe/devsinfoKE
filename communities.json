@@ -1,57 +1,12 @@
 [
   {
-    "id": "gdgcloud",
-    "Sponsor": "Google",
-    "Name": "GDG Cloud Nairobi",
-    "Desc": " Google Developers Group (GDG Nairobi) - is open and volunteer geek community who create exciting projects and share experience about Google technologies.",
-    "Link": "https://www.meetup.com/GDG-Cloud-Nairobi/",
-    "Events": "https://www.meetup.com/GDG-Cloud-Nairobi/events/past",
-    "Telegram": "#"
-  },
-  {
-    "id": "mlsa-ke",
-    "Sponsor": "Microsoft Learn Student Ambassadors",
-    "Name": "Microsoft Learn Student Ambassadors KE",
-    "Desc": "We are a group of campus leaders eager to help our fellow students, create robust tech communities, and develop technical and career skills for the future. Watch more - https://www.youtube.com/channel/UCJy0HetQpR4zQhDbC4mIfeg",
-    "Link": "https://twitter.com/MSAmbassadorsKE",
-    "Events": "https://www.meetup.com/MS-Ambassadors-KE/",
-    "Microsoft Teams": "https://teams.microsoft.com/l/team/19%3ace2817b6ef674a078faf9061a17c209d%40thread.skype/conversations?groupId=aa6736b8-432a-4ac7-8c53-50ee5bf940ee&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f"
-  },
-  {
-    "id": "android",
+    "id": "adg",
     "Sponsor": "Community",
-    "Name": "Android254",
-    "Desc": "Android254 developer group brings together android developers and enthusiasts to learn about Android technologies, best practices and also hear talks from industry experts.",
-    "Link": "https://www.meetup.com/Android254/",
-    "Events": "https://www.meetup.com/Android254/events/past",
-    "Telegram": "http://t.me/android254"
-  },
-  {
-    "id": "nairobijs",
-    "Sponsor": "Community",
-    "Name": "Nairobi JavaScript Community",
-    "Desc": "Community/user group focused on WEB & RELATED TECHNOLOGIES - HTML5, CSS3, JavaScript inclusive of Node.js.",
-    "Link": "https://www.meetup.com/nairobi-js/",
-    "Events": "https://www.meetup.com/nairobi-js/events/past",
-    "Telegram": "#"
-  },
-  {
-    "id": "gophers",
-    "Sponsor": "Community",
-    "Name": "Nairobi Gophers",
-    "Desc": "This group is for Go Enthusiasts. We aim to create a community around the language and share experiences adopting the language.",
-    "Link": "https://www.meetup.com/Nairobi-Gophers/",
-    "Events": "https://www.meetup.com/Nairobi-Gophers/events/past",
-    "Telegram": "#"
-  },
-  {
-    "id": "jvm",
-    "Sponsor": "Community",
-    "Name": "Nairobi JVM",
-    "Desc": "Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython).",
-    "Link": "https://www.meetup.com/nairobi-jvm/",
-    "Events": "https://www.meetup.com/nairobi-jvm/events/past",
-    "Telegram": "#"
+    "Name": "Africa Game Developers Community",
+    "Desc": "Anyone interested in building & developing game's as a business!",
+    "Link": "https://www.meetup.com/Nairobi-Game-Development-Meetup/",
+    "Events": "https://www.meetup.com/Nairobi-Game-Development-Meetup/events/",
+    "Telegram": "https://t.me/AfricaGameDevelopers"
   },
   {
     "id": "ai",
@@ -63,12 +18,39 @@
     "Telegram": "https://t.me/AIKENYA"
   },
   {
-    "id": "nairuby",
+    "id": "android",
     "Sponsor": "Community",
-    "Name": "Nairuby",
-    "Desc": "Nairuby is a community organization that was started in 2010. The community focuses on development and demonstrations on ruby technologies and frameworks, which are all open source and widely used by startups to prototype and carry out proof of concept with a go to market strategy.",
-    "Link": "https://www.meetup.com/Nairuby/",
-    "Events": "https://www.meetup.com/Nairuby/events/past",
+    "Name": "Android254",
+    "Desc": "Android254 developer group brings together android developers and enthusiasts to learn about Android technologies, best practices and also hear talks from industry experts.",
+    "Link": "https://www.meetup.com/Android254/",
+    "Events": "https://www.meetup.com/Android254/events/past",
+    "Telegram": "http://t.me/android254"
+  },
+  {
+    "id": "androidke",
+    "Sponsor": "Community",
+    "Name": "AndroidKE",
+    "Desc": "A home for Android enthusiasts",
+    "Link": "#",
+    "Events": "#",
+    "Telegram": "https://t.me/androidke"
+  },
+  {
+    "id": "angularkenya",
+    "Sponsor": "Community",
+    "Name": "Angular Kenya",
+    "Desc": "An Angular Kenyan community for budding Software Developers interested in the Angular framework",
+    "Link": "https://twitter.com/angular_kenya",
+    "Events": "#",
+    "Telegram": "#"
+  },
+  {
+    "id": "anitabnairobi",
+    "Sponsor": "AnitaB.Org Nairobi",
+    "Name": "AnitaB.Org Nairobi",
+    "Desc": "Local communities that connect women technologists from cities around the world to network and find support & new opportunities.",
+    "Link": "https://anitab-org.mobilize.io/",
+    "Events": "https://community.anitab.org/",
     "Telegram": "#"
   },
   {
@@ -81,6 +63,15 @@
     "Telegram": "#"
   },
   {
+    "id": "azureke",
+    "Sponsor": "Microsoft",
+    "Name": "Azure Community in Kenya",
+    "Desc": "The Azure Meetup meets, discusses and review all Azure services, solutions and implementations. This is for all professionals in the field of security, devops, infrastructure, support, development, quality, architecture and design, business and/or data of any type or experience level. Calling all beginners, geeks and enthusiasts in the cloud space or those that want to join!.",
+    "Link": "meetup.com/azureke",
+    "Events": "meetup.com/azureke",
+    "Telegram": "https://t.me/azureke"
+  },  
+  {
     "id": "devc",
     "Sponsor": "Facebook",
     "Name": "Facebook Developer Cirles",
@@ -88,87 +79,6 @@
     "Link": "https://www.facebook.com/groups/DevCNairobi/",
     "Events": "https://www.facebook.com/groups/DevCNairobi/events/",
     "Telegram": "#"
-  },
-  {
-    "id": "laravel",
-    "Sponsor": "Laravel",
-    "Name": "Laravel Nairobi",
-    "Desc": "A meetup for people interested in Laravel and Web App development ",
-    "Link": "https://www.meetup.com/laravel-nairobi/",
-    "Events": "https://www.meetup.com/laravel-nairobi/events/pasts",
-    "Telegram": "https://t.me/laravel254"
-  },
-  {
-    "id": "gdgnairobi",
-    "Sponsor": "Google",
-    "Name": "GDG Nairobi",
-    "Desc": "GDG is open and volunteer geek community who create exciting projects and share experience about Google technologies with passion. ",
-    "Link": "https://www.meetup.com/GDG-Nairobi/",
-    "Events": "https://www.meetup.com/GDG-Nairobi/events/pasts",
-    "Telegram": "#"
-  },
-  {
-    "id": "yii",
-    "Sponsor": "Community",
-    "Name": "Yii2 Devs Kenya",
-    "Desc": "",
-    "Link": "#",
-    "Events": "#",
-    "Telegram": "https://t.me/yii2devskenya"
-  },
-    {
-    "id": "adg",
-    "Sponsor": "Community",
-    "Name": "Africa Game Developers Community",
-    "Desc": "Anyone interested in building & developing game's as a business!",
-    "Link": "https://www.meetup.com/Nairobi-Game-Development-Meetup/",
-    "Events": "https://www.meetup.com/Nairobi-Game-Development-Meetup/events/",
-    "Telegram": "https://t.me/AfricaGameDevelopers"
-  },
-  {
-    "id": "golang",
-    "Sponsor": "Community",
-    "Name": "GolangKE",
-    "Desc": "Community for golang developers in Kenya",
-    "Link": "#",
-    "Events": "#",
-    "Telegram": "https://t.me/golang254"
-  },
-  {
-    "id": "phpkenya",
-    "Sponsor": "Community",
-    "Name": "PHP Kenya",
-    "Desc": "PHP group for devs and wannabes ",
-    "Link": "https://t.me/phpkenya",
-    "Events": "#",
-    "Telegram": "https://t.me/phpkenya"
-  },
-  {
-    "id": "pythonke",
-    "Sponsor": "Community",
-    "Name": "Python Kenya",
-    "Desc": "Community for Python developers in Kenya ",
-    "Link": "https://t.me/pythonKE",
-    "Events": "#",
-    "Telegram": "https://t.me/pythonKE"
-  },
-  {
-    "id": "paymentsapi",
-    "Sponsor": "Community",
-    "Name": "Payments Overflow KE",
-    "Desc": "Programmers & Developers working with Payments API ",
-    "Link": "https://t.me/payments_api",
-    "Events": "#",
-    "Telegram": "https://t.me/payments_api"
-  },
-  {
-    "id": "androidke",
-    "Sponsor": "Community",
-    "Name": "AndroidKE",
-    "Desc": "A home for Android enthusiasts",
-    "Link": "#",
-    "Events": "#",
-    "Telegram": "https://t.me/androidke"
   },
   {
     "id": "flutterdevske",
@@ -180,75 +90,31 @@
     "Telegram": "https://t.me/joinchat/JxgSk1FaJLYJ4UjNBDuyrw"
   },
   {
-    "id": "kotlinke",
-    "Sponsor": "Community",
-    "Name": "Kotlin Kenya",
-    "Desc": "Kotlin language User group",
-    "Link": "https://www.meetup.com/KotlinKenya/",
-    "Events": "https://www.meetup.com/KotlinKenya/events/pasts",
-    "Telegram": "https://t.me/kotlinKenya"
+    "id": "gdgcloud",
+    "Sponsor": "Google",
+    "Name": "GDG Cloud Nairobi",
+    "Desc": " Google Developers Group (GDG Nairobi) - is open and volunteer geek community who create exciting projects and share experience about Google technologies.",
+    "Link": "https://www.meetup.com/GDG-Cloud-Nairobi/",
+    "Events": "https://www.meetup.com/GDG-Cloud-Nairobi/events/past",
+    "Telegram": "#"
   },
   {
-    "id": "wordpresske",
+    "id": "gdgnairobi",
+    "Sponsor": "Google",
+    "Name": "GDG Nairobi",
+    "Desc": "GDG is open and volunteer geek community who create exciting projects and share experience about Google technologies with passion. ",
+    "Link": "https://www.meetup.com/GDG-Nairobi/",
+    "Events": "https://www.meetup.com/GDG-Nairobi/events/pasts",
+    "Telegram": "#"
+  },
+  {
+    "id": "golang",
     "Sponsor": "Community",
-    "Name": "WordPress KE",
-    "Desc": "Sharing tips and tricks about WP and other related stuff",
+    "Name": "GolangKE",
+    "Desc": "Community for golang developers in Kenya",
     "Link": "#",
     "Events": "#",
-    "Telegram": "https://t.me/WordPressKenya"
-  },
-    {
-    "id": "graphql",
-    "Sponsor": "Community",
-    "Name": "Nairobi GraphQL Meetup",
-    "Desc": "Interested in building API's using GraphQL? Join us and get to learn and share more about GraphQL and get to understand how you can leverage it to build modern and scalable API's that can be consumed by any client; be it a mobile app or web app.",
-    "Link": "https://www.meetup.com/Nairobi-GraphQL-Meetup/",
-    "Events": "https://www.meetup.com/Nairobi-GraphQL-Meetup/events/past/",
-    "Telegram": "#"
-  },
-  {
-    "id": "tensorflownairobi",
-    "Sponsor": "Google",
-    "Name": "TensorFlow Nairobi",
-    "Desc": "A local community of technologists who are interested in advancing their knowledge of TensorFlow (http://tensorflow.org), its use cases and applications.",
-    "Link": "https://nairobi.ai",
-    "Events": "https://www.meetup.com/Tensorflow-Nairobi/"
-  },
-  {
-    "id": "azureke",
-    "Sponsor": "Microsoft",
-    "Name": "Azure Community in Kenya",
-    "Desc": "The Azure Meetup meets, discusses and review all Azure services, solutions and implementations. This is for all professionals in the field of security, devops, infrastructure, support, development, quality, architecture and design, business and/or data of any type or experience level. Calling all beginners, geeks and enthusiasts in the cloud space or those that want to join!.",
-    "Link": "meetup.com/azureke",
-    "Events": "meetup.com/azureke",
-    "Telegram": "https://t.me/azureke"
-  },
-  {
-    "id": "producthuntnairobi",
-    "Sponsor": "Product Hunt",
-    "Name": "ProductHunt Nairobi",
-    "Desc": "A community of makers and hunters building products together",
-    "Link": "https://www.producthunt.com",
-    "Events": "http://meetups.producthunt.com",
-    "Telegram": ""
-  },
-  {
-    "id": "anitabnairobi",
-    "Sponsor": "AnitaB.Org Nairobi",
-    "Name": "AnitaB.Org Nairobi",
-    "Desc": "Local communities that connect women technologists from cities around the world to network and find support & new opportunities.",
-    "Link": "https://anitab-org.mobilize.io/",
-    "Events": "https://community.anitab.org/",
-    "Telegram": "#"
-  },
-  {
-    "id": "angularkenya",
-    "Sponsor": "Community",
-    "Name": "Angular Kenya",
-    "Desc": "An Angular Kenyan community for budding Software Developers interested in the Angular framework",
-    "Link": "https://twitter.com/angular_kenya",
-    "Events": "#",
-    "Telegram": "#"
+    "Telegram": "https://t.me/golang254"
   },
   {
     "id": "hackclubke",
@@ -260,13 +126,22 @@
     "Telegram": "#"
   },
   {
-    "id": "reactnative",
+    "id": "kotlinke",
     "Sponsor": "Community",
-    "Name": "React Native",
-    "Desc": "A telegram group for React Native users",
-    "Link": "#",
-    "Events": "#",
-    "Telegram": "https://t.me/reactnative"
+    "Name": "Kotlin Kenya",
+    "Desc": "Kotlin language User group",
+    "Link": "https://www.meetup.com/KotlinKenya/",
+    "Events": "https://www.meetup.com/KotlinKenya/events/pasts",
+    "Telegram": "https://t.me/kotlinKenya"
+  },
+  {
+    "id": "laravel",
+    "Sponsor": "Laravel",
+    "Name": "Laravel Nairobi",
+    "Desc": "A meetup for people interested in Laravel and Web App development ",
+    "Link": "https://www.meetup.com/laravel-nairobi/",
+    "Events": "https://www.meetup.com/laravel-nairobi/events/pasts",
+    "Telegram": "https://t.me/laravel254"
   },
   {
     "id": "lepstadev",
@@ -278,6 +153,51 @@
     "Telegram": "#"
   },
   {
+    "id": "mlsa-ke",
+    "Sponsor": "Microsoft Learn Student Ambassadors",
+    "Name": "Microsoft Learn Student Ambassadors KE",
+    "Desc": "We are a group of campus leaders eager to help our fellow students, create robust tech communities, and develop technical and career skills for the future. Watch more - https://www.youtube.com/channel/UCJy0HetQpR4zQhDbC4mIfeg",
+    "Link": "https://twitter.com/MSAmbassadorsKE",
+    "Events": "https://www.meetup.com/MS-Ambassadors-KE/",
+    "Microsoft Teams": "https://teams.microsoft.com/l/team/19%3ace2817b6ef674a078faf9061a17c209d%40thread.skype/conversations?groupId=aa6736b8-432a-4ac7-8c53-50ee5bf940ee&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f"
+  },
+  {
+    "id": "mongodbnai",
+    "Sponsor": "MongoDB",
+    "Name": "MongoDB Nairobi",
+    "Desc": "This community is for MongoDB users, data scientist/analysts, AI, IoT, backend developers, ML developers, cloud computing and anyone interested in emerging data technologies. MongoDB community is where the world’s fastest-growing data community comes to connect, explore, and learn. ",
+    "Link": "https://live.mongodb.com/nairobi-kenya/",
+    "Events": "https://live.mongodb.com/nairobi-kenya/",
+    "Telegram": "#"
+  }
+  {
+    "id": "jvm",
+    "Sponsor": "Community",
+    "Name": "Nairobi JVM",
+    "Desc": "Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython).",
+    "Link": "https://www.meetup.com/nairobi-jvm/",
+    "Events": "https://www.meetup.com/nairobi-jvm/events/past",
+    "Telegram": "#"
+  },
+  {
+    "id": "gophers",
+    "Sponsor": "Community",
+    "Name": "Nairobi Gophers",
+    "Desc": "This group is for Go Enthusiasts. We aim to create a community around the language and share experiences adopting the language.",
+    "Link": "https://www.meetup.com/Nairobi-Gophers/",
+    "Events": "https://www.meetup.com/Nairobi-Gophers/events/past",
+    "Telegram": "#"
+  },
+  {
+    "id": "graphql",
+    "Sponsor": "Community",
+    "Name": "Nairobi GraphQL Meetup",
+    "Desc": "Interested in building API's using GraphQL? Join us and get to learn and share more about GraphQL and get to understand how you can leverage it to build modern and scalable API's that can be consumed by any client; be it a mobile app or web app.",
+    "Link": "https://www.meetup.com/Nairobi-GraphQL-Meetup/",
+    "Events": "https://www.meetup.com/Nairobi-GraphQL-Meetup/events/past/",
+    "Telegram": "#"
+  },
+  {
     "id": "ipfsnairobi",
     "Sponsor": "Community",
     "Name": "Nairobi IPFS",
@@ -286,14 +206,59 @@
     "Events": "https://www.meetup.com/Nairobi-IPFS/",
     "Telegram": "#"
   },
-    {
-    "id": "vuejskenya",
+  {
+    "id": "nairobijs",
     "Sponsor": "Community",
-    "Name": "Vue JS Kenya",
-    "Desc": "The community exists for anyone interested in Vue.js -. The goal is to provide monthly meetups where people give talks on Vue.js and related topic",
-    "Link": "https://www.meetup.com/vue-js-kenya/",
-    "Events": "https://www.meetup.com/vue-js-kenya/",
-    "Telegram": "https://t.me/joinchat/GfprOqfwxcqOk8vP"
+    "Name": "Nairobi JavaScript Community",
+    "Desc": "Community/user group focused on WEB & RELATED TECHNOLOGIES - HTML5, CSS3, JavaScript inclusive of Node.js.",
+    "Link": "https://www.meetup.com/nairobi-js/",
+    "Events": "https://www.meetup.com/nairobi-js/events/past",
+    "Telegram": "#"
+  },
+  {
+    "id": "nairuby",
+    "Sponsor": "Community",
+    "Name": "Nairuby",
+    "Desc": "Nairuby is a community organization that was started in 2010. The community focuses on development and demonstrations on ruby technologies and frameworks, which are all open source and widely used by startups to prototype and carry out proof of concept with a go to market strategy.",
+    "Link": "https://www.meetup.com/Nairuby/",
+    "Events": "https://www.meetup.com/Nairuby/events/past",
+    "Telegram": "#"
+  },
+  {
+    "id": "paymentsapi",
+    "Sponsor": "Community",
+    "Name": "Payments Overflow KE",
+    "Desc": "Programmers & Developers working with Payments API ",
+    "Link": "https://t.me/payments_api",
+    "Events": "#",
+    "Telegram": "https://t.me/payments_api"
+  },
+  {
+    "id": "phpkenya",
+    "Sponsor": "Community",
+    "Name": "PHP Kenya",
+    "Desc": "PHP group for devs and wannabes ",
+    "Link": "https://t.me/phpkenya",
+    "Events": "#",
+    "Telegram": "https://t.me/phpkenya"
+  },
+  {
+    "id": "producthuntnairobi",
+    "Sponsor": "Product Hunt",
+    "Name": "ProductHunt Nairobi",
+    "Desc": "A community of makers and hunters building products together",
+    "Link": "https://www.producthunt.com",
+    "Events": "http://meetups.producthunt.com",
+    "Telegram": ""
+  },
+  {
+    "id": "pythonke",
+    "Sponsor": "Community",
+    "Name": "Python Kenya",
+    "Desc": "Community for Python developers in Kenya ",
+    "Link": "https://t.me/pythonKE",
+    "Events": "#",
+    "Telegram": "https://t.me/pythonKE"
   },
   {
     "id": "reactdevske",
@@ -305,12 +270,47 @@
     "Telegram": "http://bit.ly/reactdevsketelegram"
   },
   {
-    "id": "mongodbnai",
-    "Sponsor": "MongoDB",
-    "Name": "MongoDB Nairobi",
-    "Desc": "This community is for MongoDB users, data scientist/analysts, AI, IoT, backend developers, ML developers, cloud computing and anyone interested in emerging data technologies. MongoDB community is where the world’s fastest-growing data community comes to connect, explore, and learn. ",
-    "Link": "https://live.mongodb.com/nairobi-kenya/",
-    "Events": "https://live.mongodb.com/nairobi-kenya/",
-    "Telegram": "#"
-  }
+    "id": "reactnative",
+    "Sponsor": "Community",
+    "Name": "React Native",
+    "Desc": "A telegram group for React Native users",
+    "Link": "#",
+    "Events": "#",
+    "Telegram": "https://t.me/reactnative"
+  },
+  {
+    "id": "tensorflownairobi",
+    "Sponsor": "Google",
+    "Name": "TensorFlow Nairobi",
+    "Desc": "A local community of technologists who are interested in advancing their knowledge of TensorFlow (http://tensorflow.org), its use cases and applications.",
+    "Link": "https://nairobi.ai",
+    "Events": "https://www.meetup.com/Tensorflow-Nairobi/"
+  },
+  {
+    "id": "vuejskenya",
+    "Sponsor": "Community",
+    "Name": "Vue JS Kenya",
+    "Desc": "The community exists for anyone interested in Vue.js -. The goal is to provide monthly meetups where people give talks on Vue.js and related topic",
+    "Link": "https://www.meetup.com/vue-js-kenya/",
+    "Events": "https://www.meetup.com/vue-js-kenya/",
+    "Telegram": "https://t.me/joinchat/GfprOqfwxcqOk8vP"
+  },
+  {
+    "id": "wordpresske",
+    "Sponsor": "Community",
+    "Name": "WordPress KE",
+    "Desc": "Sharing tips and tricks about WP and other related stuff",
+    "Link": "#",
+    "Events": "#",
+    "Telegram": "https://t.me/WordPressKenya"
+  },
+  {
+    "id": "yii",
+    "Sponsor": "Community",
+    "Name": "Yii2 Devs Kenya",
+    "Desc": "",
+    "Link": "#",
+    "Events": "#",
+    "Telegram": "https://t.me/yii2devskenya"
+  },
 ]
