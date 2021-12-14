@@ -36,6 +36,16 @@
     "Telegram": "#"
   },
   {
+    "id": "gdsc-tuk",
+    "Sponsor": "Google Developer Student Clubs",
+    "Name": "Google Developer Student Club TUK",
+    "Desc": "We are a Community of student developers interested and passionate about Google Technologies | Powered by Google Developers- Youtube - https://www.youtube.com/channel/UCInCp9Jb5hAvTV6ccJ3L3PA",
+    "Link": "https://twitter.com/DscTuk",
+    "Events": "https://gdsc.community.dev/technical-university-of-kenya/",
+    "Telegram": "#"
+  },
+  
+  {
     "id": "gophers",
     "Sponsor": "Community",
     "Name": "Nairobi Gophers",
