@@ -117,6 +117,15 @@
     "Telegram": "https://t.me/golang254"
   },
   {
+    "id": "gdsc-tuk",
+    "Sponsor": "Google Developer Student Clubs",
+    "Name": "Google Developer Student Club TUK",
+    "Desc": "We are a Community of student developers interested and passionate about Google Technologies | Powered by Google Developers- Youtube - https://www.youtube.com/channel/UCInCp9Jb5hAvTV6ccJ3L3PA",
+    "Link": "https://twitter.com/DscTuk",
+    "Events": "https://gdsc.community.dev/technical-university-of-kenya/",
+    "Telegram": "#"
+  },
+  {
     "id": "hackclubke",
     "Sponsor": "Community",
     "Name": "Hack Club Kenya",
@@ -169,8 +178,17 @@
     "Link": "https://live.mongodb.com/nairobi-kenya/",
     "Events": "https://live.mongodb.com/nairobi-kenya/",
     "Telegram": "#"
-  }
-   {
+  } 
+  {
+    "id": "nairobijs",
+    "Sponsor": "Community",
+    "Name": "Nairobi JavaScript Community",
+    "Desc": "Community/user group focused on WEB & RELATED TECHNOLOGIES - HTML5, CSS3, JavaScript inclusive of Node.js.",
+    "Link": "https://www.meetup.com/nairobi-js/",
+    "Events": "https://www.meetup.com/nairobi-js/events/past",
+    "Telegram": "#"
+  },
+  {
     "id": "nlug",
     "Sponsor": "Community",
     "Name": "Nairobi GNU/Linux Users Group",
