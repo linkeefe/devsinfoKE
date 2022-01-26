@@ -47,7 +47,9 @@
 
                                 <a href="<?php echo $value['Link'] ?>" target="_blank" ><i class="socicon socicon-google icon icon--xs"></i></a> &nbsp;
                                 <a href="<?php echo $value['Events'] ?>" target="_blank" ><i class="socicon socicon-meetup icon icon--xs"></i></a> &nbsp;
-                                <a href="<?php echo $value['Telegram'] ?>" target="_blank" ><i class="socicon socicon-telegram icon icon--xs"></i></a>
+                                <a href="<?php echo $value['Telegram'] ?>" target="_blank" ><i class="socicon socicon-telegram icon icon--xs"></i></a> &nbsp;
+                                <a href="<?php echo $value['Twitter'] ?>" target="_blank" ><i class="socicon socicon-twitter icon icon--xs"></i></a> &nbsp;
+                                <a href="<?php echo $value['Github'] ?>" target="_blank" ><i class="socicon socicon-github icon icon--xs"></i></a>
                             </div>
                             <!--end feature-->
                         </div>
