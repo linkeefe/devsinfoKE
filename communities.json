@@ -6,16 +6,20 @@
     "Desc": " Google Developers Group (GDG Nairobi) - is open and volunteer geek community who create exciting projects and share experience about Google technologies.",
     "Link": "https://www.meetup.com/GDG-Cloud-Nairobi/",
     "Events": "https://www.meetup.com/GDG-Cloud-Nairobi/events/past",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "mlsa-ke",
     "Sponsor": "Microsoft Learn Student Ambassadors",
     "Name": "Microsoft Learn Student Ambassadors KE",
     "Desc": "We are a group of campus leaders eager to help our fellow students, create robust tech communities, and develop technical and career skills for the future. Watch more - https://www.youtube.com/channel/UCJy0HetQpR4zQhDbC4mIfeg",
-    "Link": "https://twitter.com/MSAmbassadorsKE",
+    "Link": "https://teams.microsoft.com/l/team/19%3ace2817b6ef674a078faf9061a17c209d%40thread.skype/conversations?groupId=aa6736b8-432a-4ac7-8c53-50ee5bf940ee&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f"
     "Events": "https://www.meetup.com/MS-Ambassadors-KE/",
-    "Microsoft Teams": "https://teams.microsoft.com/l/team/19%3ace2817b6ef674a078faf9061a17c209d%40thread.skype/conversations?groupId=aa6736b8-432a-4ac7-8c53-50ee5bf940ee&tenantId=84c31ca0-ac3b-4eae-ad11-519d80233e6f"
+     "Telegram": "#",
+    "Twitter": "https://twitter.com/MSAmbassadorsKE",
+    "Github": "#"
   },
   {
     "id": "android",
@@ -24,7 +28,9 @@
     "Desc": "Android254 developer group brings together android developers and enthusiasts to learn about Android technologies, best practices and also hear talks from industry experts.",
     "Link": "https://www.meetup.com/Android254/",
     "Events": "https://www.meetup.com/Android254/events/past",
-    "Telegram": "http://t.me/android254"
+    "Telegram": "http://t.me/android254",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "nairobijs",
@@ -33,7 +39,9 @@
     "Desc": "Community/user group focused on WEB & RELATED TECHNOLOGIES - HTML5, CSS3, JavaScript inclusive of Node.js.",
     "Link": "https://www.meetup.com/nairobi-js/",
     "Events": "https://www.meetup.com/nairobi-js/events/past",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "gdsc-tuk",
@@ -42,7 +50,9 @@
     "Desc": "We are a Community of student developers interested and passionate about Google Technologies | Powered by Google Developers- Youtube - https://www.youtube.com/channel/UCInCp9Jb5hAvTV6ccJ3L3PA",
     "Link": "https://twitter.com/DscTuk",
     "Events": "https://gdsc.community.dev/technical-university-of-kenya/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   
   {
@@ -52,7 +62,9 @@
     "Desc": "This group is for Go Enthusiasts. We aim to create a community around the language and share experiences adopting the language.",
     "Link": "https://www.meetup.com/Nairobi-Gophers/",
     "Events": "https://www.meetup.com/Nairobi-Gophers/events/past",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "gnu",
@@ -60,7 +72,9 @@
     "Desc": "A lively community of GNU/Linux penguin enthusiasts",
     "Link": "https://github.com/orgs/nairobilug",
     "Events": "https://groups.google.com/g/nairobi-gnu",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "https://github.com/orgs/nairobilug"
   },
   {
     "id": "jvm",
@@ -69,7 +83,9 @@
     "Desc": "Nairobi JVM Is a great place to learn about the languages that run on the JVM, (Java, Scala,Clojure,Kotlin,Groovy,JRuby,JPython).",
     "Link": "https://www.meetup.com/nairobi-jvm/",
     "Events": "https://www.meetup.com/nairobi-jvm/events/past",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "ai",
@@ -78,7 +94,9 @@
     "Desc": "Ai Kenya (https://kenya.ai/) is a group for all enthusiasts, learners and developers in Machine Learning, Data Science and Artificial Intelligence in general. ",
     "Link": "https://www.meetup.com/Ai-Kenya/",
     "Events": "https://www.meetup.com/Ai-Kenya/events/past",
-    "Telegram": "https://t.me/AIKENYA"
+    "Telegram": "https://t.me/AIKENYA",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "nairuby",
@@ -87,7 +105,9 @@
     "Desc": "Nairuby is a community organization that was started in 2010. The community focuses on development and demonstrations on ruby technologies and frameworks, which are all open source and widely used by startups to prototype and carry out proof of concept with a go to market strategy.",
     "Link": "https://www.meetup.com/Nairuby/",
     "Events": "https://www.meetup.com/Nairuby/events/past",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "atlassian",
@@ -96,7 +116,9 @@
     "Desc": "Atlassian Community Nairobi encourages better use of Atlassian tools, share best practices, case studies and individual perspectives. ",
     "Link": "https://aug.atlassian.com/nairobi/",
     "Events": "https://aug.atlassian.com/nairobi/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "devc",
@@ -105,7 +127,9 @@
     "Desc": "DevC Nairobi is a forum for developers in Nairobi and its surroundings who are interested in building on the Facebook platform to interact and collaborate other developers who share similar interests. ",
     "Link": "https://www.facebook.com/groups/DevCNairobi/",
     "Events": "https://www.facebook.com/groups/DevCNairobi/events/",
-    "Telegram": "#"
+   "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "laravel",
@@ -114,7 +138,9 @@
     "Desc": "A meetup for people interested in Laravel and Web App development ",
     "Link": "https://www.meetup.com/laravel-nairobi/",
     "Events": "https://www.meetup.com/laravel-nairobi/events/pasts",
-    "Telegram": "https://t.me/laravel254"
+    "Telegram": "https://t.me/laravel254",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "gdgnairobi",
@@ -123,7 +149,9 @@
     "Desc": "GDG is open and volunteer geek community who create exciting projects and share experience about Google technologies with passion. ",
     "Link": "https://www.meetup.com/GDG-Nairobi/",
     "Events": "https://www.meetup.com/GDG-Nairobi/events/pasts",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "yii",
@@ -132,7 +160,9 @@
     "Desc": "",
     "Link": "#",
     "Events": "#",
-    "Telegram": "https://t.me/yii2devskenya"
+    "Telegram": "https://t.me/yii2devskenya",
+    "Twitter": "#",
+    "Github": "#"
   },
     {
     "id": "adg",
@@ -142,6 +172,8 @@
     "Link": "https://www.meetup.com/Nairobi-Game-Development-Meetup/",
     "Events": "https://www.meetup.com/Nairobi-Game-Development-Meetup/events/",
     "Telegram": "https://t.me/AfricaGameDevelopers"
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "golang",
@@ -150,7 +182,9 @@
     "Desc": "Community for golang developers in Kenya",
     "Link": "#",
     "Events": "#",
-    "Telegram": "https://t.me/golang254"
+    "Telegram": "https://t.me/golang254",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "phpkenya",
@@ -159,7 +193,10 @@
     "Desc": "PHP group for devs and wannabes ",
     "Link": "https://t.me/phpkenya",
     "Events": "#",
-    "Telegram": "https://t.me/phpkenya"
+    "Telegram": "https://t.me/phpkenya",
+    "Twitter": "#",
+    "Github": "#"
+    
   },
   {
     "id": "pythonke",
@@ -168,7 +205,9 @@
     "Desc": "Community for Python developers in Kenya ",
     "Link": "https://t.me/pythonKE",
     "Events": "#",
-    "Telegram": "https://t.me/pythonKE"
+    "Telegram": "https://t.me/pythonKE",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "paymentsapi",
@@ -177,7 +216,9 @@
     "Desc": "Programmers & Developers working with Payments API ",
     "Link": "https://t.me/payments_api",
     "Events": "#",
-    "Telegram": "https://t.me/payments_api"
+    "Telegram": "https://t.me/payments_api",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "androidke",
@@ -186,7 +227,9 @@
     "Desc": "A home for Android enthusiasts",
     "Link": "#",
     "Events": "#",
-    "Telegram": "https://t.me/androidke"
+    "Telegram": "https://t.me/androidke",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "flutterdevske",
@@ -195,7 +238,9 @@
     "Desc": "Lets talk Flutter, check flutter.dev to get started",
     "Link": "https://twitter.com/KenyaFlutterDev",
     "Events": "http://meetup.com/KenyaFlutterDev",
-    "Telegram": "https://t.me/joinchat/JxgSk1FaJLYJ4UjNBDuyrw"
+    "Telegram": "https://t.me/joinchat/JxgSk1FaJLYJ4UjNBDuyrw",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "kotlinke",
@@ -204,7 +249,9 @@
     "Desc": "Kotlin language User group",
     "Link": "https://www.meetup.com/KotlinKenya/",
     "Events": "https://www.meetup.com/KotlinKenya/events/pasts",
-    "Telegram": "https://t.me/kotlinKenya"
+    "Telegram": "https://t.me/kotlinKenya",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "wordpresske",
@@ -213,7 +260,9 @@
     "Desc": "Sharing tips and tricks about WP and other related stuff",
     "Link": "#",
     "Events": "#",
-    "Telegram": "https://t.me/WordPressKenya"
+    "Telegram": "https://t.me/WordPressKenya",
+    "Twitter": "#",
+    "Github": "#"
   },
     {
     "id": "graphql",
@@ -222,7 +271,9 @@
     "Desc": "Interested in building API's using GraphQL? Join us and get to learn and share more about GraphQL and get to understand how you can leverage it to build modern and scalable API's that can be consumed by any client; be it a mobile app or web app.",
     "Link": "https://www.meetup.com/Nairobi-GraphQL-Meetup/",
     "Events": "https://www.meetup.com/Nairobi-GraphQL-Meetup/events/past/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "tensorflownairobi",
@@ -230,7 +281,10 @@
     "Name": "TensorFlow Nairobi",
     "Desc": "A local community of technologists who are interested in advancing their knowledge of TensorFlow (http://tensorflow.org), its use cases and applications.",
     "Link": "https://nairobi.ai",
-    "Events": "https://www.meetup.com/Tensorflow-Nairobi/"
+    "Events": "https://www.meetup.com/Tensorflow-Nairobi/",
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "azureke",
@@ -239,7 +293,9 @@
     "Desc": "The Azure Meetup meets, discusses and review all Azure services, solutions and implementations. This is for all professionals in the field of security, devops, infrastructure, support, development, quality, architecture and design, business and/or data of any type or experience level. Calling all beginners, geeks and enthusiasts in the cloud space or those that want to join!.",
     "Link": "meetup.com/azureke",
     "Events": "meetup.com/azureke",
-    "Telegram": "https://t.me/azureke"
+    "Telegram": "https://t.me/azureke",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "producthuntnairobi",
@@ -248,7 +304,9 @@
     "Desc": "A community of makers and hunters building products together",
     "Link": "https://www.producthunt.com",
     "Events": "http://meetups.producthunt.com",
-    "Telegram": ""
+   "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "anitabnairobi",
@@ -257,7 +315,9 @@
     "Desc": "Local communities that connect women technologists from cities around the world to network and find support & new opportunities.",
     "Link": "https://anitab-org.mobilize.io/",
     "Events": "https://community.anitab.org/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "angularkenya",
@@ -266,7 +326,9 @@
     "Desc": "An Angular Kenyan community for budding Software Developers interested in the Angular framework",
     "Link": "https://twitter.com/angular_kenya",
     "Events": "#",
-    "Telegram": "#"
+   "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "hackclubke",
@@ -275,7 +337,9 @@
     "Desc": "A nonprofit network of student-led high school programming clubs to teach beginners to code. Subsidiary of Hack Club",
     "Link": "https://twitter.com/hackclubke",
     "Events": "https://hackclubkenya.netlify.app/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "reactnative",
@@ -284,7 +348,9 @@
     "Desc": "A telegram group for React Native users",
     "Link": "#",
     "Events": "#",
-    "Telegram": "https://t.me/reactnative"
+    "Telegram": "https://t.me/reactnative",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "lepstadev",
@@ -293,7 +359,9 @@
     "Desc": "We are tech community with activities in 8 cities/chapters (Pretoria, Johannesburg, Cape Town, Maputo, Lagos, Nairobi, Eldoret and Kaduna). Led by entrepreneurs who dream big and contribute to shaping the future. Operated by 6+ Local Leaders driven by bringing positive impact in the future of technology.We connect developers to industry leaders. We learn about the present to prospect the future. To get a bigger chance at having a bigger impact on the future of software development.",
     "Link": "https://www.meetup.com/Lepsta-Developers-Nairobi/",
     "Events": "https://www.meetup.com/Lepsta-Developers-Nairobi/events/past/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "ipfsnairobi",
@@ -302,7 +370,9 @@
     "Desc": "We are a group of people passionate about the decentralized web and excited to learn, teach, and share ideas. Everyone is welcome!",
     "Link": "https://ipfs-africa.github.io",
     "Events": "https://www.meetup.com/Nairobi-IPFS/",
-    "Telegram": "#"
+    "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   },
     {
     "id": "vuejskenya",
@@ -311,7 +381,9 @@
     "Desc": "The community exists for anyone interested in Vue.js -. The goal is to provide monthly meetups where people give talks on Vue.js and related topic",
     "Link": "https://www.meetup.com/vue-js-kenya/",
     "Events": "https://www.meetup.com/vue-js-kenya/",
-    "Telegram": "https://t.me/joinchat/GfprOqfwxcqOk8vP"
+    "Telegram": "https://t.me/joinchat/GfprOqfwxcqOk8vP",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "reactdevske",
@@ -320,7 +392,9 @@
     "Desc": "A community of react developers using react related technologies in the Kenyan developer ecosystem. We discuss best practices, industry standards and how to help and mentor new developers into the ReactJS eco system",
     "Link": "https://reactdevske.netlify.app/",
     "Events": "https://twitter.com/reactdevske",
-    "Telegram": "http://bit.ly/reactdevsketelegram"
+    "Telegram": "http://bit.ly/reactdevsketelegram",
+    "Twitter": "#",
+    "Github": "#"
   },
   {
     "id": "mongodbnai",
@@ -329,6 +403,8 @@
     "Desc": "This community is for MongoDB users, data scientist/analysts, AI, IoT, backend developers, ML developers, cloud computing and anyone interested in emerging data technologies. MongoDB community is where the world’s fastest-growing data community comes to connect, explore, and learn. ",
     "Link": "https://live.mongodb.com/nairobi-kenya/",
     "Events": "https://live.mongodb.com/nairobi-kenya/",
-    "Telegram": "#"
+   "Telegram": "#",
+    "Twitter": "#",
+    "Github": "#"
   }
 ]
