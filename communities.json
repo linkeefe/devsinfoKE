@@ -1,4 +1,17 @@
 [
+{
+    "id": "SpaceYaTech",
+    "Sponsor": "Community",
+    "Name": "SpacaYaTech",
+    "Desc": " We are the fastest growing Africa Open-Source Community Looking To Change The Way Young Africans Get Started In Technology.",
+    "Link": "https://spaceyatech.com/",
+    "Events": "https://spaceyatech.eventbrite.com",
+    "Telegram": "#",
+    "Discord": "https://discord.com/invite/T6zTMWsnnS"
+    "Twitter": "https://twitter.com/SpaceyaTech",
+    "Github": "https://github.com/SpaceyaTech"
+  },
+  
   {
     "id": "gdgcloud",
     "Sponsor": "Google",
